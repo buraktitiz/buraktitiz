@@ -1,5 +1,5 @@
-<h1 align="center">👋, Ben buraktitiz</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
+<h1 align="center">Hi 👋, I'm buraktitiz</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 👀 I’m interested in JavaScript, HTML, CSS
 - 🌱 I’m currently learning JavaScript, HTML, CSS
