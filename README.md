@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm buraktitiz</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 👀 I’m interested in JavaScript, HTML, CSS
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+- 👀 I’m interested in HTML, CSS, JavaScript, React
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React
 - 💞️ I’m looking to collaborate on Frontend Developer
 - 📫 How to reach me https://www.linkedin.com/in/burak-titiz/ and titizburak10@gmail.com
 
