@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React
 - 🌱 At the same time, my work includes TypeScript, Node.js and Next.js are present.
 - 💞️ I’m looking to collaborate on Frontend Developer
-- 💞️ If you want to browse my portfolio site, the step you need to follow is here <a href="http://www.buraktitiz.com/" target="_blank"/> 
+- 💞️ If you want to browse my portfolio site, the step you need to follow is here http://www.buraktitiz.com 
 - 📫 How to reach me https://www.linkedin.com/in/burak-titiz/ and titizburak10@gmail.com
 - 📫 To see my projects live: https://vercel.com/buraktitiz
 
